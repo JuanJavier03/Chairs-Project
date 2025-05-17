@@ -48,6 +48,7 @@ ul li a:hover{
     color: #fff;
     cursor:pointer;
     transition: all 0.2s ease;
+    
 }
 
 .btn-fill:hover{
